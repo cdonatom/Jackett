@@ -583,6 +583,7 @@ Prior versions of Jackett are no longer supported.
  * Torrenteros (TTR)
  * TorrentHR
  * Torrenting (TT)
+ * Torrentland
  * TorrentLeech (TL)
  * TorrentLeech.pl [![(invite needed)][inviteneeded]](#)
  * ToTheGlory (TTG) [![(invite needed)][inviteneeded]](#)
